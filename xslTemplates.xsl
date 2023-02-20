@@ -11,7 +11,7 @@
             padding-top: 30px;
           }
         </style>
-        <script src="http://fred-wang.github.io/mathjax.js/mpadded-min.js"></script>
+        <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
       </head>
       <body>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
